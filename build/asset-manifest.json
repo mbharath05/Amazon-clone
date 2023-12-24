@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ee01870.css",
+    "main.js": "/static/js/main.b1447efb.js",
+    "static/js/787.c075ba41.chunk.js": "/static/js/787.c075ba41.chunk.js",
+    "static/media/horizontalbanner.png": "/static/media/horizontalbanner.051a165f2ea2aa9f259a.png",
+    "static/media/graphics.jpg": "/static/media/graphics.b4122cc75ac869de4072.jpg",
+    "static/media/banner.jpg": "/static/media/banner.3aba8b12755295b91a0c.jpg",
+    "static/media/Camera.jpg": "/static/media/Camera.d7424bbd6b08bfce216a.jpg",
+    "static/media/playstation.jpg": "/static/media/playstation.90f2226720fe1646f6f0.jpg",
+    "static/media/msi.jpg": "/static/media/msi.2c814136d41b18d313a7.jpg",
+    "static/media/amd.jpg": "/static/media/amd.4eb4d901aac69ec5a98c.jpg",
+    "static/media/iphone.jpg": "/static/media/iphone.20d7ebffbe84455a64b0.jpg",
+    "static/media/logo.png": "/static/media/logo.c5aaa12358bbfe4240f3.png",
+    "index.html": "/index.html",
+    "main.0ee01870.css.map": "/static/css/main.0ee01870.css.map",
+    "main.b1447efb.js.map": "/static/js/main.b1447efb.js.map",
+    "787.c075ba41.chunk.js.map": "/static/js/787.c075ba41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ee01870.css",
+    "static/js/main.b1447efb.js"
+  ]
+}
